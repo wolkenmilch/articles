@@ -10,9 +10,7 @@ By studying these shifts, we can gain valuable insights into the changing dynami
 
 ## Breaking the Silence - Emergence of Human Communication
 
-<div style="text-align: left;">
-    <img class="responsive-img" src="https://www.anred.org/wp-content/uploads/2019/04/hacha2.jpg" title="dancing aboriginal australians" style="max-width: 50%;float: right; margin-left: 10px;">
-</div>
+![dancing aboriginal australians](https://www.anred.org/wp-content/uploads/2019/04/hacha2.jpg)]
 
 The realm of animal communication, though intricate in its own right, has inherent limitations. Most animal communication methods are instinctual, driven by immediate needs or reactions to the environment. For instance, a specific bird call might indicate the presence of a predator, while a particular dance in bees can pinpoint the location of nectar. These methods, while effective, lack the depth and versatility found in human communication.
 
