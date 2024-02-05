@@ -10,14 +10,13 @@ By studying these shifts, we can gain valuable insights into the changing dynami
 
 ## Breaking the Silence - Emergence of Human Communication
 
-![dancing aboriginal australians](https://www.anred.org/wp-content/uploads/2019/04/hacha2.jpg)]
+![dancing aboriginal australians](https://www.anred.org/wp-content/uploads/2019/04/hacha2.jpg)
 
 The realm of animal communication, though intricate in its own right, has inherent limitations. Most animal communication methods are instinctual, driven by immediate needs or reactions to the environment. For instance, a specific bird call might indicate the presence of a predator, while a particular dance in bees can pinpoint the location of nectar. These methods, while effective, lack the depth and versatility found in human communication.
 
 Transitioning to early humans, our ancestors not only used vocal sounds but also began to harness body language as a powerful communicative tool. Gestures like handshakes evolved as symbols of trust, facial expressions conveyed a spectrum of emotions, and actions like laughing or crying became universal indicators of joy or distress. These non-verbal cues added layers of complexity to human interactions, allowing for more nuanced communication.
 
 The emergence of speech was a monumental leap in this journey. In early human societies, speech became the primary medium for sharing knowledge, expressing emotions, issuing warnings, and building social bonds. It allowed for the conveyance of abstract ideas, planning for the future, and reflecting on the past—capabilities that were likely beyond the scope of animal communication.
-
 
 Oral traditions, encompassing storytelling, songs, and chants, played a pivotal role in preserving cultural narratives and historical events. For instance, the Aboriginal Australians used "Dreamtime" stories to explain the origins of the world and pass down important cultural knowledge. Similarly, the epic tales recited by the Griots in West Africa served as both entertainment and historical documentation, preserving centuries of history through song and story. These traditions became the bedrock of cultural preservation, ensuring that the wisdom of one generation was seamlessly passed to the next.
 
@@ -32,6 +31,8 @@ Oral traditions, on the other hand, served as a unique form of "cultural capital
 Together, language and oral traditions were not just tools for communication; they were the bedrock upon which complex economic systems could be built. They facilitated the transition from isolated communities to integrated societies, capable of sophisticated trade and economic planning. These early forms of communication were the stepping stones to the intricate economic systems that have evolved over millennia, shaping the way we think about economics, trade, and money today.
 
 ## Ancient Civilizations: The Evolution of Writing and Recordkeeping
+
+![]()]
 
 <div style="display: flex;">
     <div style="flex: 50%;">
